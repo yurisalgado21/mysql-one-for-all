@@ -10,7 +10,7 @@ INSERT INTO SpotifyClone.artists(artist_name)
 VALUES
   ('Beyoncé'),
   ('Queen'),
-  ('Elis RINSERT Iegina'),
+  ('Elis Regina'),
   ('Baco Exu do Blues'),
   ('Blind Guardian'),
   ('Nina Simone');
@@ -63,7 +63,7 @@ CREATE TABLE SpotifyClone.albums(
 INSERT INTO SpotifyClone.albums(album_name, artist_id, release_year)
 VALUES
   ('Renaissance', 1, '2022'),
-  ('jazz', 2, '1978'),
+  ('Jazz', 2, '1978'),
   ('Hot Space', 2, '1982'),
   ('Falso Brilhante', 3, '1998'),
   ('Vento de Maio', 3, '2001'),
